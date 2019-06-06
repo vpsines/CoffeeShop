@@ -1,4 +1,4 @@
-CoffeeSHOP
+CoffeeShop
 
 *This app is used for billing in coffee shops.
 
